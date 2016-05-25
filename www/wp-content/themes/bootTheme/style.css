@@ -1,0 +1,21 @@
+/*
+Theme Name: bootTheme
+Theme URI: домашняя-страница-темы
+Description: Landing Wordpress theme + Bootstrap
+Author: Anna Smolentseva
+Author URI: no-URI
+Template: bootTheme
+Version: 1.0
+.
+Развёрнутое описание темы/Лицензия-если-нужно.
+.
+*/
+
+.intro-header {
+    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background-color: #cdcbc9;
+    background-size: cover;
+}
