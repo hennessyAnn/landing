@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5aa565a6-13ff-4e77-a464-5d4acb98799e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="www.iws" />
@@ -80,8 +79,8 @@
       <file leaf-file-name="category.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/bootTheme/category.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+            <state relative-caret-position="34">
+              <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="12" selection-end-column="85" />
               <folding />
             </state>
           </provider>
@@ -454,12 +453,20 @@
       <option name="presentableId" value="Default" />
       <updated>1464104602239</updated>
       <workItem from="1464104605754" duration="13048000" />
-      <workItem from="1464118905502" duration="22332000" />
+      <workItem from="1464118905502" duration="22491000" />
     </task>
+    <task id="LOCAL-00001" summary="git cvs">
+      <created>1464204417924</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1464204417924</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35380000" />
+    <option name="totallyTimeSpent" value="35539000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1364" height="726" extended-state="6" />
@@ -494,6 +501,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git cvs" />
+    <option name="LAST_COMMIT_MESSAGE" value="git cvs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -813,8 +824,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/bootTheme/category.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+        <state relative-caret-position="34">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="12" selection-end-column="85" />
           <folding />
         </state>
       </provider>
