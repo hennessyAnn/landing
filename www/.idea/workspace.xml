@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5aa565a6-13ff-4e77-a464-5d4acb98799e" name="Default" comment="git cvs">
+    <list default="true" id="5aa565a6-13ff-4e77-a464-5d4acb98799e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="www.iws" />
@@ -453,7 +453,7 @@
       <option name="presentableId" value="Default" />
       <updated>1464104602239</updated>
       <workItem from="1464104605754" duration="13048000" />
-      <workItem from="1464118905502" duration="22590000" />
+      <workItem from="1464118905502" duration="22595000" />
     </task>
     <task id="LOCAL-00001" summary="git cvs">
       <created>1464204417924</created>
@@ -476,11 +476,18 @@
       <option name="project" value="LOCAL" />
       <updated>1464204584503</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="git cvs">
+      <created>1464204664447</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1464204664447</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35638000" />
+    <option name="totallyTimeSpent" value="35643000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1364" height="726" extended-state="6" />
